@@ -46,3 +46,15 @@ _**Computer Science**_<br>
 
 ---
 
+## Awards <br>
+*Iowa State University Dean's List*<br>
++ '19/'20
++ '20/'21
++ '21
+*Iowa State University Top 2% Class Rank*
++ Fall 2019
+*DMACC President's List*
++ '17/'18
++ '18/'19
+
+---
