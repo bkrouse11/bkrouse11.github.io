@@ -22,7 +22,7 @@ January - May 2021
 + Led a team to conduct research about finding the relationship between the spread of COVID-19 and the vaccine distributions per state
 + Researched quality data and performed exploratory analysis exceeding the standards of the class and professor
 + Organized a final report on R Studio to present our findings to our peers for the final project <br>
-![](/Users/brandonrouse/Desktop/vaccine.webp)
+![](https://www.cincinnatichildrens.org/-/media/cincinnati%20childrens/home/patients/covid-19/vaccines/page-media/vaccine-bottle-500x.jpg?la=en&hash=29A2878C009EB25C6BB2A3460F88E4347BBDB432)
 [GitHub Repository for Project](https://github.com/SamReinart/ds202_project)
 
 ---
