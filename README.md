@@ -60,3 +60,9 @@ _**Computer Science**_<br>
 + '18/'19
 
 ---
+
+## Contact/Social Media ** <br>
+Email: bkrouse@iastate.edu
+Phone: (515)230-7356
+Instagram: brandonrouse
+Twitter: 11rouseb
