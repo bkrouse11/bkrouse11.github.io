@@ -16,7 +16,7 @@ September 2021 - November 2021
 ---
 
 ## Projects
-**Data Science 202: Data Acquisition and Exploratory Data Analysis**
+**Data Science 202: Data Acquisition and Exploratory Data Analysis** <br>
 *Vaccine Distribution Controlling COVID-19* <br>
 January - May 2021
 + Led a team to conduct research about finding the relationship between the spread of COVID-19 and the vaccine distributions per state
