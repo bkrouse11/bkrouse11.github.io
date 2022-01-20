@@ -26,3 +26,21 @@ January - May 2021
 
 ---
 
+## Coursework <br>
+*Data Science* <br>
++Introduction to Data Science (201)
++Data Acquisition and Exploratory Data Analysis (202)
++Concepts and Applications of Machine Learning (303)
+*Statistics*<br>
++Introduction to Statistical Concepts and Methods (201)
++Intermediate Statistical Concepts and Methods (301)
++Probability and Statistical Theory for Data Science (347)
+*Computer Science*<br>
++Object-Oriented Programming (227)
++Introduction to Data Structures (228)
++Discrete Computational Structures (230)
++Introduction to the Design and Analysis of Algorithms (311)
++Introduction to Database Management Systems (363)
+
+---
+
