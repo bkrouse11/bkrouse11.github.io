@@ -21,8 +21,8 @@ September 2021 - November 2021
 January - May 2021
 + Led a team to conduct research about finding the relationship between the spread of COVID-19 and the vaccine distributions per state
 + Researched quality data and performed exploratory analysis exceeding the standards of the class and professor
-+ Organized a final report on R Studio to present our findings to our peers for the final project
-[Link](file:///Users/brandonrouse/Desktop/Previous%20Classes/DS202/ds202_final/project_report.html)
++ Organized a final report on R Studio to present our findings to our peers for the final project <br>
+[Link](https://github.com/SamReinart/ds202_project)
 
 ---
 
